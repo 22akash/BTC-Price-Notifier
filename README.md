@@ -2,8 +2,9 @@
 BITCOIN PRICE NOTIFIER
 
 This is a RESTful based APIkey application.
-Login yourself into 'CoinMarketCap' and get your RESTful api key and place it in 'api_key' in the code.
-To create and get the chatbot access, follow the procedure:
+To create and get the price alert notifications, follow the below given procedure:
+  > Login yourself into 'CoinMarketCap' and get your RESTful api key.
+  > Place that apikey in 'api_key' in the code.
   > Search for 'BotFather' in your telegram.
   > Activate it by '/start' command.
   > Get your chatbot by giving it a proper name.
